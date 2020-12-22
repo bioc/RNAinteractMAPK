@@ -1,7 +1,7 @@
 Package: RNAinteractMAPK
 Type: Package
 Title: Mapping of Signalling Networks through Synthetic Genetic Interaction Analysis by RNAi
-Version: 1.28.1
+Version: 1.28.2
 Authors@R: c(
             person("Bernd", "Fischer", role = "aut"), 
             person("Wolfgang", "Huber", role="ctb",
@@ -16,4 +16,3 @@ Imports: grid, gdata, MASS, genefilter, methods, fields, utils, lattice, Biobase
 Depends: R (>= 2.12.0), sparseLDA, RNAinteract
 Suggests: qvalue
 biocViews: ExperimentData, MicrotitrePlateAssayData, Drosophila_melanogaster_Data, CellCulture
-PackageStatus: Deprecated
